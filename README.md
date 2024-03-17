@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sudip Chakrabarty</h1>
+<h1 align="center">Hi 👋, I'm Pappu Bishwas</h1>
 <h3 align="center">A passionate Computer Science Engineer and Competitive Programmer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudip-329&label=Profile%20views&color=0e75b6&style=flat" alt="sudip-329" /> </p>
@@ -14,13 +14,13 @@
 
 - 💬 Ask me about **C,C++,Python.**
 
-- 📫 Want to reach me : **sudipchakrabarty6@gmail.com**
+- 📫 Want to reach me : **pappuovi8@gmail.com**
 
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sudip-chakrabarty-6502b5243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sudip-chakrabarty-6502b5243/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/pappu-bishwas-tan87/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pappu-bishwas-tan87/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/sudip.chakrabarty2?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sudip.chakrabarty2?mibextid=zbwkwl" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sudip_3329" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sudip_3329" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sudip_chakrabarty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sudip_chakrabarty" height="30" width="40" /></a>
