@@ -20,11 +20,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pappu-bishwas-tan87/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pappu-bishwas-tan87/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/sudip.chakrabarty2?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sudip.chakrabarty2?mibextid=zbwkwl" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sudip_3329" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sudip_3329" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sudip_chakrabarty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sudip_chakrabarty" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/sudipchakrabarty/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sudipchakrabarty/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pappu-bishwas-tan87/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pappu-bishwas-tan87/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/pappuovi8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/pappuovi8" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/pappu_bishwas2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/pappu_bishwas2" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/pappuovi8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/pappuovi8" height="30" width="40" /></a>
+<a href="https://leetcode.com/paptan_8272/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/paptan_8272/" height="30" width="40" /></a>
 </p>
 <br>
 
@@ -44,13 +44,13 @@
 |  |  |
 
 ## Trophy & Stats :
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudip-329" alt="sudip-329" /></a><br>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pappubishwas" alt="pappubishwas" /></a><br>
 
 
 <!-- ---------------------------------------------------  StackOverflow & LeetCode  ------------------------------------------------------------------- -->
 
 
-| ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Sudip_Chakrabarty)  |![LeetCode Stats](https://leetcode.card.workers.dev/SudipChakrabarty?theme=light,unicorn) |<img margin="40px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudip-329&show_icons=true&locale=en&layout=compact" alt="sudip-329" /></p> |
+| ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=pappuovi8)  |![LeetCode Stats](https://leetcode.card.workers.dev/paptan_8272?theme=light,unicorn) |<img margin="40px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=pappubishwas&show_icons=true&locale=en&layout=compact" alt="pappubishwas" /></p> |
 | :---: | :---: | :---: |
 
 
@@ -58,7 +58,7 @@
 
 
 
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sudip-329&theme=cobalt&show_icons=true&count_private=true) | [![GitHub Streak](https://streak-stats.demolab.com?user=Sudip-329&theme=synthwave&border_radius=4)](https://git.io/streak-stats) |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pappubishwas&theme=cobalt&show_icons=true&count_private=true) | [![GitHub Streak](https://streak-stats.demolab.com?user=pappubishwas&theme=synthwave&border_radius=4)](https://git.io/streak-stats) |
 | :---: | :---: |
 
 
