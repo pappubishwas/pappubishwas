@@ -46,23 +46,21 @@
 ## Trophy & Stats :
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pappubishwas" alt="pappubishwas" /></a><br>
 
-
 <!-- ---------------------------------------------------  StackOverflow & LeetCode  ------------------------------------------------------------------- -->
 <!-- | ![Codechef Stats](https://codechef-cards-api.onrender.com/pappu_bishwas2) -->
 
-| ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=pappuovi8)  |![GeeksForGeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=pappuvaub) |![LeetCode Stats](https://leetcode.card.workers.dev/paptan_8272?theme=light,unicorn) |<img margin="40px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=pappubishwas&show_icons=true&locale=en&layout=compact" alt="pappubishwas" /></p> |
+| ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=pappuovi8)  | ![LeetCode Stats](https://leetcode.card.workers.dev/paptan_8272?theme=light,unicorn) |
 | :---: | :---: |
-| :---: | :---: | 
 
-
-
+| ![GeeksForGeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=pappuvaub)  | <img margin="40px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=pappubishwas&show_icons=true&locale=en&layout=compact" alt="pappubishwas"/> |
+| :---: | :---: |
 
 
 
 | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pappubishwas&theme=cobalt&show_icons=true&count_private=true) | [![GitHub Streak](https://streak-stats.demolab.com?user=pappubishwas&theme=synthwave&border_radius=4)](https://git.io/streak-stats) |
 | :---: | :---: |
 
-
+</p>
 
 <!--details
    <summary><b>:rocket: &nbsp;Github stats Detailed</b></summary>
