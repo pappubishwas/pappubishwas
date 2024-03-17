@@ -48,9 +48,9 @@
 
 
 <!-- ---------------------------------------------------  StackOverflow & LeetCode  ------------------------------------------------------------------- -->
+<!-- | ![Codechef Stats](https://codechef-cards-api.onrender.com/pappu_bishwas2) -->
 
-
-| ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=pappuovi8) | ![Codechef Stats](https://codechef-cards-api.onrender.com/pappu_bishwas2) |![LeetCode Stats](https://leetcode.card.workers.dev/paptan_8272?theme=light,unicorn) |<img margin="40px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=pappubishwas&show_icons=true&locale=en&layout=compact" alt="pappubishwas" /></p> |
+| ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=pappuovi8) |![LeetCode Stats](https://leetcode.card.workers.dev/paptan_8272?theme=light,unicorn) | ![GeeksForGeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=pappuvaub) |<img margin="40px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=pappubishwas&show_icons=true&locale=en&layout=compact" alt="pappubishwas" /></p> |
 | :---: | :---: | :---: |
 
 
